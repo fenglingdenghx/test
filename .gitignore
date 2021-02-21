@@ -1,0 +1,4 @@
+﻿# 白名单
+base.css
+# 忽略test文件夹
+test/
